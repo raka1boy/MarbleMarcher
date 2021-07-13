@@ -29,7 +29,6 @@ const Level all_levels[num_levels] = {
     Eigen::Vector3f(2.95227f, 2.65057f, 1.11848f),   //Flag Position
     -4.0f,                                           //Death Barrier
     false,                                           //Is Planet
-    "Jump The Crater"),                              //Description
 
   //Level 2   
   Level(
